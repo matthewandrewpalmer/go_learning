@@ -1,0 +1,5 @@
+This information has been loaded in from a file
+
+<h2>Hello !! </h2>
+
+<script>alert("Reading from File Complete")</script>
